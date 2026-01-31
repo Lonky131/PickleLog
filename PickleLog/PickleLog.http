@@ -1,0 +1,6 @@
+@PickleLog_HostAddress = http://localhost:5291
+
+GET {{PickleLog_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36915.13 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickleLog.Api", "PickleLog.Api.csproj", "{1FE480E0-0D7C-4FB4-8ABE-5FF1D9347DDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickleLog.Business", "..\PickleLog.Business\PickleLog.Business.csproj", "{4B0FEB3E-6898-4CAC-B2A8-FAA29E68B161}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1FE480E0-0D7C-4FB4-8ABE-5FF1D9347DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FE480E0-0D7C-4FB4-8ABE-5FF1D9347DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FE480E0-0D7C-4FB4-8ABE-5FF1D9347DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0FEB3E-6898-4CAC-B2A8-FAA29E68B161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0FEB3E-6898-4CAC-B2A8-FAA29E68B161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0FEB3E-6898-4CAC-B2A8-FAA29E68B161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0FEB3E-6898-4CAC-B2A8-FAA29E68B161}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
